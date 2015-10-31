@@ -1,0 +1,1 @@
+jdbc:mysql://db.cs.wwu.edu/CS330_201410 sohalj_reader  vKGyqRaD4
