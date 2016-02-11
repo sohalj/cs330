@@ -3,7 +3,7 @@
 330 database class
 projects are located in assginment1 assignment2 and assignment3 folders
 
-assignmneet1:
+assignment1:
 	Was just a intro to getting used to java as some people in the class had not used it before. We just has to parse the txt file containing all the stock data and put that information into a array of type TradingDayInfo. Then calculate the splits in the stock based on the specificatiosn givin. 
 
 assignment2:
@@ -12,4 +12,4 @@ assignment2:
 assignment3:
 	Created my own table and then used it with all the procedures as described in the file.
 
-*Two and Three cant be run as i no longer have access to database 
+*Two and Three cant be run as i no longer have access to database
