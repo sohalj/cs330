@@ -2,7 +2,7 @@ package base;
 
 //J.P. Sohal
 //CS 330
-//3/10/14
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
