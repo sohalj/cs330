@@ -8,5 +8,6 @@ assignmneet1:
 
 assignment2:
 	Begin with connecting to database that we worked with. Use a query statement to get information. Then do the three procedures that were used in the program.
+
 assignment3:
 	Created my own table and then used it with all the procedures as described in the file.
